@@ -102,14 +102,10 @@
 	
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 ---
-(https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/iRoseM?tab=repositories)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/iRoseM?tab=repositories)
 <a href="https://github.com/iRoseM?tab=repositories">
   <img src="https://github-profile-trophy.vercel.app/?username=iRoseM&column=8&margin-w=15&margin-h=15" alt="iRoseM">
 </a> 
-
 ---
