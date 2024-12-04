@@ -14,11 +14,11 @@
 	
 ## <picture><img src = "https://github.com/iRoseM/iRoseM/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/iRoseM/iRoseM/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img align="right" src="https://media.giphy.com/media/3oEjI5hO7xj14v7q8I/giphy.gif" width="250px"></picture>
 
 <br>
 
-- 🎓 Information Technology student.
+- 💻 Information Technology student.
 - 🤝 Committed to making a meaningful impact by creating innovative and efficient solutions.
 - 🌟 Driven to enhance my technical expertise and design proficiency through hands-on projects and practical training.
 - ✨ Always curious, always learning—seeking opportunities that push me to grow, innovate, and contribute to creative and technical domains.
@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://media.giphy.com/media/1BXaVDoNzhoYQ/giphy.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
