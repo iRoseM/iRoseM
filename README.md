@@ -92,20 +92,19 @@
   <img src="https://img.shields.io/badge/linkedin:%20Rose%20Mady-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://twitter.com/_lr73_" target="_blank">
+<a href="https://twitter.com/_lr73" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  _lr73_-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 <a href="mailto:RosetMady@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  iRoseM-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Rosetmady-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
 </div>
 
 
----
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/iRoseM?tab=repositories)
 <a href="https://github.com/iRoseM?tab=repositories">
   <img src="https://github-profile-trophy.vercel.app/?username=iRoseM&column=8&margin-w=15&margin-h=15" alt="iRoseM">
 </a> 
----
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/iRoseM?tab=repositories)
