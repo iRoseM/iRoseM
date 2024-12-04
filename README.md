@@ -14,7 +14,7 @@
 	
 ## <picture><img src = "https://github.com/iRoseM/iRoseM/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture><img align="right" src="https://media.giphy.com/media/3oEjI5hO7xj14v7q8I/giphy.gif" width="250px"></picture>
+<picture><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></picture>
 
 <br>
 
@@ -23,10 +23,6 @@
 - 🌟 Driven to enhance my technical expertise and design proficiency through hands-on projects and practical training.
 - ✨ Always curious, always learning—seeking opportunities that push me to grow, innovate, and contribute to creative and technical domains.
 
-
-<br><br>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <br>
 <br>
 
