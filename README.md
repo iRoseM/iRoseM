@@ -12,7 +12,7 @@
 
 
 	
-## <picture><img src = "https://github.com/iRoseM/iRoseM/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 👀**About me**
 
 <picture><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></picture>
 
